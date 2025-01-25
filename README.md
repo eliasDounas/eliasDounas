@@ -7,10 +7,7 @@
 
 - 📫 How to reach me **elias.dounas.maarifa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Add your social media links here if needed -->
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
