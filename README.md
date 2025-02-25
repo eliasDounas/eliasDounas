@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **elias.dounas.maarifa@gmail.com**
 
+- 👨‍💻 You can find my personnal website <a href="https://eliasdounas.vercel.app" target="_blank" rel="noreferrer"> here </a>.
 
 
 <h3 align="left">Languages and Tools:</h3>
