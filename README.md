@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **all about software engineering**
 
-- 📫 How to reach me **elias.dounas.maarifa@gmail.com**
+- 📫 How to reach me **dounas.elias@gmail.com**
 
 - 👨‍💻 You can find my personnal website <a href="https://eliasdounas.vercel.app" target="_blank" rel="noreferrer"> here </a>
 
